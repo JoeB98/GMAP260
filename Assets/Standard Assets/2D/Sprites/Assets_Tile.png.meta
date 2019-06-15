@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: c5eb56de3bca8ee45a46f8ce111f5cf8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6106740496235502331
+    second: Crate
+  - first:
+      213: 2587858007466578128
+    second: Arrow_Sign
+  - first:
+      213: 3457361155723992451
+    second: City_Sign
+  - first:
+      213: -4450187690458833534
+    second: Box
+  - first:
+      213: -2169878020132053944
+    second: Left_Pipe
+  - first:
+      213: -744188996020638988
+    second: Right_Pipe
+  - first:
+      213: -6213919365062695008
+    second: Trashcan
+  - first:
+      213: 5110227581760218134
+    second: Ramen_Sign
+  - first:
+      213: -3796831799706519343
+    second: Long_Pipe
+  - first:
+      213: 6069270429414299725
+    second: Middle_Plat
+  - first:
+      213: 3862169404209307492
+    second: Left_Plat
+  - first:
+      213: 712562424849129161
+    second: Right_Plat
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crate
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1656
+        width: 666
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00126f64dc83b64aae4424801dcc49e
+      internalID: 6106740496235502331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_Sign
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1652
+        width: 561
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b4cc12bde574341b6a9eb792461f07
+      internalID: 2587858007466578128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: City_Sign
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1648
+        width: 665
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2557760e9b993324fb41fcecb0d28dcd
+      internalID: 3457361155723992451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1648
+        width: 379
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fd22874a775cb46a5c6f1596b20f83
+      internalID: -4450187690458833534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Pipe
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 1697
+        width: 299
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a15f8aa61c4ee408da0396b30bb313
+      internalID: -2169878020132053944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Pipe
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 1693
+        width: 331
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f777c52024f2a344a6e2eef26281ef6
+      internalID: -744188996020638988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trashcan
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 854
+        width: 549
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832887330da499a46adf0369a402d154
+      internalID: -6213919365062695008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramen_Sign
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 632
+        width: 355
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808321caf7fafa64588d43b5be558f7a
+      internalID: 5110227581760218134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Long_Pipe
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 491
+        width: 271
+        height: 1101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371d92fef9e975d4eb0004fa5f6af34a
+      internalID: -3796831799706519343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Middle_Plat
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 79
+        width: 855
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c15c5c5bc30d249ba031d8ea10daa4
+      internalID: 6069270429414299725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left_Plat
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 67
+        width: 827
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599d65c01a4dd6045b0629f56dc936cf
+      internalID: 3862169404209307492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Plat
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 67
+        width: 838
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ccd10252f5509409cad2eb3f047399
+      internalID: 712562424849129161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -1675, y: 570.5}
+      - {x: -1675, y: 1019.5}
+      - {x: -984, y: 1019.5}
+      - {x: -984, y: 570.5}
+    - - {x: -1672, y: -223.5}
+      - {x: -1672, y: 494.5}
+      - {x: -1099, y: 494.5}
+      - {x: -1099, y: -223.5}
+    - - {x: -938, y: 558.5}
+      - {x: -938, y: 941.5}
+      - {x: -365, y: 941.5}
+      - {x: -365, y: 558.5}
+    - - {x: -252, y: 554.5}
+      - {x: -252, y: 970.5}
+      - {x: 426, y: 970.5}
+      - {x: 426, y: 554.5}
+    - - {x: 462, y: 570.5}
+      - {x: 462, y: 966.5}
+      - {x: 845, y: 966.5}
+      - {x: 845, y: 570.5}
+    - - {x: 954, y: 586.5}
+      - {x: 954, y: 990.5}
+      - {x: 1273, y: 990.5}
+      - {x: 1273, y: 586.5}
+    - - {x: 1297, y: 590.5}
+      - {x: 1297, y: 1034.5}
+      - {x: 1623, y: 1034.5}
+      - {x: 1623, y: 590.5}
+    - - {x: 982, y: -453.5}
+      - {x: 982, y: 409.5}
+      - {x: 1329, y: 409.5}
+      - {x: 1329, y: -453.5}
+    - - {x: 1361, y: -590.5}
+      - {x: 1361, y: 498.5}
+      - {x: 1640, y: 498.5}
+      - {x: 1640, y: -590.5}
+    - - {x: -1680, y: -1014.5}
+      - {x: -1680, y: -619.5}
+      - {x: -821, y: -619.5}
+      - {x: -821, y: -1014.5}
+    - - {x: -801, y: -1014.5}
+      - {x: -801, y: -627.5}
+      - {x: 30, y: -627.5}
+      - {x: 30, y: -1014.5}
+    - - {x: 63, y: -1022.5}
+      - {x: 63, y: -627.5}
+      - {x: 889, y: -627.5}
+      - {x: 889, y: -1022.5}
+    physicsShape: []
+    bones: []
+    spriteID: cf3058bc44dd50543846cf4c592757d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
